@@ -1,0 +1,2 @@
+-- client.lua
+-- Leeg bestand, maar nodig om de client-side script te laden
